@@ -19,7 +19,7 @@ public function handle(Request $request, $type = self::MASTER_REQUEST, $catch = 
   - http://stackphp.com/
 
 
-## zend-stratigility, Slim 3 etc.
+## Double Pass (zend-stratigility, Slim 3 etc.)
 
 |implements  |`none`                 |
 |----------- |--------------------------------------------------|
